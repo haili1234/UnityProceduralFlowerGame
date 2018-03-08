@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4aecb51ef6264d37abdf1c60c6b502f, type: 3}
+  m_Name: Bud
+  m_EditorClassIdentifier: 
+  controls:
+  - width: 0.0859375
+    height: 0.125
+  - width: 0.17578125
+    height: 0.5644531
+  - width: 0.15820312
+    height: 0.82421875
+  size: 1
+  numberOfVerticesOnOneSide: 20
+  resolution: 3
+  noiseDepth: 0.2
+  noiseScale: {x: 2, y: 3}

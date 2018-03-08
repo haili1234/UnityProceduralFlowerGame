@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4aecb51ef6264d37abdf1c60c6b502f, type: 3}
+  m_Name: Leaf2
+  m_EditorClassIdentifier: 
+  controls:
+  - width: 0.140625
+    height: 0.1640625
+  - width: 0.2421875
+    height: 0.38085938
+  - width: 0.21289062
+    height: 0.5917969
+  - width: 0.05859375
+    height: 0.8808594
+  size: 1
+  numberOfVerticesOnOneSide: 30
+  resolution: 4
+  noiseDepth: 0.25
+  noiseScale: {x: 3, y: 1}
